@@ -1,0 +1,235 @@
+Agila Arbetssätt
+Historik, Filosofi, Ramverk och Framgångsfaktorer
+1. Bakgrund och Historik
+
+Agila arbetssätt har vuxit fram som ett svar på behovet av att hantera snabbt föränderliga krav, kortare leveranstider och ökad flexibilitet inom system- och mjukvaruutveckling.
+
+Agil utveckling är inspirerad av Toyota Production System (TPS) och Lean-filosofin, med fokus på värdeskapande och eliminering av slöseri. Det formella genombrottet kom år 2001 genom publiceringen av Agila Manifestet.
+
+2. Agil Filosofi och Grundprinciper
+2.1 Agila Manifestet
+
+Agila Manifestet bygger på fyra grundläggande värderingar:
+
+Individer och interaktioner framför processer och verktyg
+
+Fungerande mjukvara framför omfattande dokumentation
+
+Kundsamarbete framför kontraktsförhandling
+
+Anpassning till förändring framför att följa en fast plan
+
+Dessa värderingar betonar prioriteringar – inte att det ena utesluter det andra.
+
+2.2 De 12 Agila Principerna
+
+De agila principerna fokuserar på:
+
+Tidiga och kontinuerliga leveranser
+
+Välkomnande av förändrade krav
+
+Frekventa leveranser av fungerande mjukvara
+
+Nära samarbete mellan verksamhet och utveckling
+
+Motiverade och ansvarstagande individer
+
+Direkt kommunikation (helst ansikte mot ansikte)
+
+Fungerande mjukvara som främsta mått på framsteg
+
+Hållbar utvecklingstakt
+
+Teknisk excellens och god design
+
+Enkelhet
+
+Självorganiserande team
+
+Regelbunden reflektion och förbättring
+
+3. Agila Ramverk och Metoder
+3.1 Scrum
+
+Scrum är ett iterativt och inkrementellt ramverk som används för att hantera komplexa utvecklingsprojekt.
+
+Roller:
+
+Scrum Master (SM)
+
+Product Owner (PO)
+
+Utvecklingsteam
+
+Ceremonier:
+
+Sprint Planning
+
+Daily Scrum
+
+Backlog Refinement
+
+Sprint Review
+
+Sprint Retrospective
+
+Artefakter:
+
+Product Backlog
+
+Sprint Backlog
+
+Burndown/Burnup Charts
+
+Definition of Done (DoD)
+
+Vanliga verktyg: exempelvis Jira och Scrum Poker.
+
+3.2 Kanban
+
+Kanban fokuserar på visualisering av arbetsflödet och kontinuerlig leverans.
+
+Visuellt arbetsflöde
+
+WIP-begränsningar (Work In Progress)
+
+Kontinuerligt flöde utan sprintar
+
+Lätt att införa i befintliga organisationer
+
+3.3 Extreme Programming (XP)
+
+XP betonar hög teknisk kvalitet och tätt samarbete.
+
+Testdriven utveckling (TDD)
+
+Parprogrammering
+
+Kontinuerlig integration
+
+Värderingar: kommunikation, enkelhet, feedback, mod och respekt
+
+3.4 Lean
+
+Lean fokuserar på att maximera kundvärde genom effektivitet.
+
+Eliminering av slöseri
+
+Kontinuerliga förbättringar
+
+Fokus på värdeflöden
+
+Kräver disciplin och organisatorisk mognad
+
+3.5 SAFe (Scaled Agile Framework)
+
+SAFe används för att skala agilt arbete i stora organisationer.
+
+Samordnar flera team
+
+Bygger på 10 grundprinciper
+
+Tydlig struktur och ekonomiskt fokus
+
+Stödjer strategisk styrning
+
+4. Roller och Ansvar
+
+Scrum Master
+Faciliterar processen, undanröjer hinder och coachar teamet.
+
+Product Owner
+Prioriterar backloggen, maximerar affärsvärde och representerar kunden.
+
+IT-Projektledare
+Förekommer främst i hybridmodeller med ansvar för tid, budget och resurser.
+
+Epic Owner
+Ansvarar för större initiativ och strategisk samordning.
+
+Utvecklingsteam
+Självorganiserande och tvärfunktionellt team som levererar värde.
+
+5. Kravhantering i Agila Projekt
+
+Epic
+Större funktionalitet som bryts ner i mindre delar.
+
+User Story
+“Som [användare] vill jag [funktion] för att [värde]”
+
+Task/Subtask
+Konkreta arbetsuppgifter för implementation.
+
+6. Riskhantering och Dokumentation
+6.1 Agil Riskhantering
+
+Löpande och iterativ riskanalys
+
+Riskvärde = sannolikhet × konsekvens
+
+Prioritering:
+
+Röd (15–25)
+
+Gul (5–14)
+
+Grön (1–4)
+
+6.2 Dokumentation
+
+Minimal men tillräcklig
+
+Levande och uppdaterad
+
+En del av Definition of Done
+
+7. Uppföljning och Visualisering
+
+Burndown Chart – visar återstående arbete över tid
+
+Burnup Chart – visar utfört arbete i relation till scope
+
+Flödesdiagram – visualiserar processer och flöden
+
+Logiskt nätverk – används främst i traditionella eller hybrida projekt
+
+8. Projektavslut i Agila Projekt
+8.1 Agilt Avslut
+
+Kontinuerliga leveranser
+
+Korta iterationer
+
+Retrospektiv för lärande
+
+Fokus på värde snarare än dokumentation
+
+8.2 Hantering av Havererade Projekt
+
+Identifiera grundproblem
+
+Omprioritera backloggen
+
+Leverera värde tidigt
+
+Skapa transparens
+
+Engagera teamet
+
+Säkerställ kvalitet genom DoD
+
+9. Framgångsfaktorer för Agilt Arbete
+
+Tidig och frekvent värdeleverans
+
+Rätt prioriteringar
+
+Tydlig kommunikation och transparens
+
+Kontinuerlig riskhantering
+
+Tydlig Definition of Done
+
+Engagerade team och lärande kultur

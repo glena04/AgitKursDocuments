@@ -1,0 +1,83 @@
+Gruppkontrakt
+
+
+Lägg till en reaktion
+Gruppens arbetsregler
+Scrum-ceremonier följs enligt Scrum-ramverket.
+
+Vi kommunicerar öppet, respektfullt och konstruktivt.
+
+Vi svarar på gruppmeddelanden inom 24 timmar på vardagar.
+
+Vi hjälper varandra vid blockeringar och ber om hjälp i tid.
+
+Slutförs inte tilldelad task enligt tidsfrist, omfördelas den till annan gruppmedlem.
+
+Vi arbetar transparent i Jira—allt arbete ska ha en User Story och status.
+
+Daily Stand-up tid
+Mötestillfällen bestäms löpande av medverkande på föregående möte.
+
+Reflektion från tidigare grupparbete
+Fungerade bra:
+
+Tydlig kommunikation.
+
+Tidsramar för möten hölls.
+
+Delat ansvar för dokumentation.
+
+Fungerade mindre bra:
+
+Otydliga roller → skapade förvirring.
+
+Backloggen var inte prioriterad → gav stress.
+
+Oregelbundna mötestider → svårt att koordinera.
+
+Gruppens förväntningar
+Alla bidrar aktivt till diskussioner och arbetsmoment.
+
+Respekt, punktlighet och ansvarstagande. Uteblivet deltagande resulterar i ett uteblivet mandat.
+
+Högt engagemang och vilja att lära sig Scrum.
+
+Gruppens ambitionsnivå
+Målet är att leverera ett fullständigt agilt projekt enligt Scrum och utveckla en realistisk backlog baserad på StädaFint AB:s behov.
+
+Arbete under självstudier
+Medlemmar arbetar individuellt med sina User Stories enligt prioritering.
+
+Commit i Jira ska alltid uppdateras efter varje arbetspass.
+
+Vid blockeringar skrivs kommentar i Jira + ping i gruppchatten.
+
+Förväntningar på varandra
+Vara förberedd inför alla möten.
+
+Uppdatera Jira kontinuerligt.
+
+Kommunicera om arbetsbelastning och svårigheter.
+
+Stötta gruppen vid behov och vara lösningsorienterad.
+
+Alltid svara på discord-meddelanden inom kort. Öppen kommunikation är viktig. 
+
+ 
+
+Vi undertecknade förbinder oss att följa detta gruppkontrakt och arbeta tillsammans för att nå våra gemensamma mål.
+
+Signerat av:
+
+Erik Nyberg
+
+Yousif Al-Anbari
+
+Star Bahadin 
+
+Denis
+
+mohamed
+
+Desmond
+ 

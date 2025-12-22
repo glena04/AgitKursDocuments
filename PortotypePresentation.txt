@@ -1,0 +1,41 @@
+
+Jag ska presentera vår prototyp som skapat åt StädaFint AB.
+
+En prototyp är en tidig version av ett system.
+Den används för att visa hur systemet är uppbyggt, vilka funktioner som finns och hur användaren interagerar med dem.
+Syftet är att  få feedback innan man utvecklar ett färdigt system.
+
+Prototypen består av flera delar.
+
+Startsidan är det första användaren möter.
+Här presenteras företaget, vilka tjänster som erbjuds, priser samt kontaktuppgifter.
+
+Startsidan är viktig eftersom den skapar förtroende hos kunden.
+
+
+
+
+
+
+Kundportalen är till för privatkunder.
+Här kan kunden logga in, boka städtjänster, välja datum och tid samt se sina bokningar.
+Kunden kan också avboka eller ändra en bokning.
+
+Kundportalen gör att kunden kan sköta allt själv, när som helst.
+Det sparar tid både för kunden och företaget.
+Dessutom minskar det risken för felbokningar.
+
+Personalportalen är anpassad för de anställda.
+Här kan personalen se sitt schema, vilka kunder de ska besöka och vilken typ av städning som ska utföras.
+
+Genom personalportalen får personalen en tydlig överblick över sina uppdrag.
+Det minskar behovet av manuella listor och förbättrar planeringen.
+
+Adminpanelen är till för administratören.
+Här kan man hantera hela systemet, till exempel lägga till eller ta bort användare, ändra bokningar och se statistik.
+
+Sammanfattningsvis visar prototypen hur ett digitalt bokningssystem kan fungera i praktiken.
+Den är tydligt strukturerad, användarvänlig och anpassad efter olika behov.
+
+Tack för att ni har lyssnat.
+Nu försäter en annan klasskamart med presentationen

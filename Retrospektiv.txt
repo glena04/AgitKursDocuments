@@ -1,0 +1,49 @@
+Gruppdiskussion 
+
+1. Vilka delar av det agila manifestet (värderingarna) tilltalar er mest – och varför? 
+
+Individer och interaktioner - Framför processer och verktyg
+
+Det agila arbetssättet prioriterar människor, samarbete och effektiv kommunikation över strikta processer eller avancerade verktyg. Detta innebär att teamets förmåga att lösa problem, diskutera hinder och fatta beslut tillsammans är viktigare än vilken metod eller vilket system som används. Bra verktyg kan hjälpa – men det är teamets interaktioner som skapar verkligt värde.
+
+Fungerande programvara - Framför omfattande dokumentation
+
+Agila team strävar efter att leverera faktisk funktionalitet som ger kundnytta, istället för att lägga tid på stora mängder dokument som inte direkt bidrar till värde. Dokumentation ska finnas när den behövs, men fokus ligger på att snabbt få fram en fungerande lösning som kan testas, användas och förbättras. Resultatet är ett mer responsivt och effektivt utvecklingsflöde.
+
+Sammanfattning
+
+Dessa punkter tilltalar oss för att vi uppskattar respektives infallsvinkel kring att sätta produkten först.  
+
+Att sätta interaktioner före verktyg är ett sätt att göra sig oberoende av statisk inramning och släppa fram kompetens som kan tendera att gå förlorad i en alltför fyrkantig process.
+
+Att lägga fokus vid funktion ser vi som ett sätt att undvika överflödig cirkulation som kan uppstå om man utvecklar och dokumenterar parallellt.  
+
+2. Finns det någon värdering ni spontant tycker är svår att leva upp till? 
+
+Anpassning för förändring - Framför att följa en plan
+
+Risken av att inte ha en fast plan att följa kan leda till ett väldigt rörigt projekt. Anpassning är positivt när det kommer till att behålla produktivitet om man kör fast, men om man går för långt ifrån planen känns det som om man snabbt kan hamna i en spiral av o-organisation.
+
+3. Vilken av de 12 principerna tror ni är lättast att implementera för ett team i början – och vilken är svårast? Varför? 
+
+Lättast att implementera - Motivation
+
+Det enklaste borde vara motivation - I första steget upplever vi att inspiration och motivation finns lättillgänglig, ännu finns endast teoretiska problem och potentialens gränser är fortfarande för långt bort för att synas.
+
+Svårast - Enkelhet:
+
+Vi känner att det är svårt att optimera ett projekt samtidigt som man jobbar på det. Enkelheten och avskalningen är alltid lättast att gör i efterhand. Första prio ska ligga på att få fram ett fungerande program och fokusera på kontinuerliga leveranser, för att inte förhindra produktiviteten. 
+
+4. Kan ni komma på ett exempel där ett agilt sätt att arbeta kan skapa konflikter med kundens förväntningar eller organisationens strukturer? 
+
+Som med alla metoder finns alltid risken att dissonans mellan individers förståelse för processen skadar arbetsflödets rytm. 
+
+Kunden kanske inte alltid har 100% koll på vad ett agilt arbetssätt innebär, och detta kan leda till missförstånd gällande deadlines och mål. Eftersom det agila arbetssättet är gjort för att vara flexibelt och anpassa sig för förändringar så kan det skapa konflikt mot ett företag som vill ha det mer svart på vitt.
+
+5. Vilka av principerna tror ni ofta glöms bort i riktiga projekt – och varför?
+
+Regelbunden reflektion - reflektion verkar av mänsklig vana vara något som prioriteras bort under prestationsdrivna ansatser.
+
+ 
+
+Hållbar utveckling - tenderas också att prioriteras bort till förmån för viljan av omedelbara resultat.

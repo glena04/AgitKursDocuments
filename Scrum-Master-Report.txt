@@ -1,0 +1,56 @@
+scrum master report
+
+
+Erik — 03/12/2025, 20:09
+vad vi kom fram till på mötet idag. 
+Vi känner oss också lite förvirrade över Jiran som Muhammad skapat, så vi valde att köra på min sålänge då den är helt tom. 
+Under sidor hittar ni visionsdokument, gruppkontraktet och  förstudie. 
+Primärt mål och uppgift är att jobba på att framställa ett komplett Visionsdokument. 
+Detta gör man på egen tid, och på nästa möte (fredag kl18.00) så redigerar vi tillsammans och ser till att det är komplett. 
+Om man känner sig färdig med visionsdokumentet eller inte kommer på vad man ska lägga till så kan man börja jobba på förstudien. 
+Sen får ni jättegärna läsa igenom gruppkontraktet och skriva under. 
+Har ni problem med att ni inte kan redigera eller se dokument så skriv här på discord så löser jag det!
+
+
+
+Gruppmöte Måndag 8/12
+
+Markerat sprint 0 som färdig
+Valt MVP och skapat tasks för Sprint 1
+Tilldelat 1 task per gruppmedlem
+Tilldelat 1 ansvarig(assignee) för varje story i Sprint 1
+Spelat scrum poker och kollektivt estimerat 4 dagar per story
+Öppnat doc i pages för allmänna frågor till Linda
+
+Man kan se i Jira vilken task man tilldelats men eftersom själva 
+utvecklingsarbetet är fiktivt har gruppen bestämt att inget reellt 
+arbete skall utföras. Vi tilldelar och bockar av tasks för att 
+simuleringen av projektet skall bli mer detaljerad.
+
+Bokat nästa möte; Onsdag 10/12 19.00
+
+Scrum Master Rapport – 12/12/2025
+
+Deltagare:
+
+Star (Scrum Master)
+Dennis
+Erik
+Muhamad
+Simon
+
+Sammanfattning av mötet:
+Idag  genomförde gruppen ett planerat möte där vi började med en kort retrospektiv för Sprint 1. Under denna retro gick vi gemensamt igenom vad som fungerade bra, vad som kunde förbättras och vilka lärdomar vi tar med oss till nästa sprint. Efter genomgången avslutades och stängdes Sprint 1 formellt.
+
+Därefter diskuterade vi de befintliga user stories som finns i backloggen. Vi prioriterade flera av dem och fortsatte sedan med estimering. Estimeringen genomfördes via vår chattkanal på Discord. När estimeringarna var klara skapade vi Sprint 2 baserat på de stories vi valde ut.
+
+Varje gruppmedlem blev tilldelad en user story tillsammans med tillhörande tasks för sprintens genomförande.
+
+Specifik uppgift:
+
+Star kommer att skapa en prototyp för StädaFint AB:s hemsida. Deadline för detta är Söndag.
+
+Nästa möte:
+
+Måndag 15 december 2025 kl. 19:00
+Ett alternativt datum var inte möjligt då gruppen på onsdag har presentation, vilket kräver att vi hinner förbereda oss i god tid.
